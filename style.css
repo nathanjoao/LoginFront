@@ -1,0 +1,11 @@
+.background-cadastro{
+    background-color: #ECEBE9;
+}
+.background-button-send {
+    background-color: #89B6E7; 
+    transition: background-color 0.3s ease;  
+}
+
+.background-button-send:hover {
+    background-color: #2980b9;  
+}
